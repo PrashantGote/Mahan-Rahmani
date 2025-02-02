@@ -19,16 +19,16 @@ I am <b>Mahan Rahmani</b>, a <strong>programmer</strong> and interested in the f
 
 
 <details open>  
-  <summary><h2><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire Emoji" width="30" height="30"> Streaks, Stats & Activity <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Mahan Rahmani" width="30" height="30"></h2></summary>
+  <summary><h2> Streaks, Stats & Activity <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Mahan Rahmani" width="30" height="30"></h2></summary>
     <!-- https://github.com/anuraghazra/github-readme-stats // Github Stats-->
-  <img alt="Mahan Rahmani" align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Mahan-Rahmani&hide_border=true&title_color=FFFFFF&show_icons=true&icon_color=FF0000&ring_color=FF0000&bg_color=000000&text_color=FFFFFF&rank_icon=github" />
+  <img alt="Mahan Rahmani" align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=MainakVerse&hide_border=true&title_color=FFFFFF&show_icons=true&icon_color=FF0000&ring_color=FF0000&bg_color=000000&text_color=FFFFFF&rank_icon=github" />
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats // Streaks Stats -->
-    <img alt ="Mahan Rahmani" align="center" width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=Mahan-Rahmani&theme=highcontrast&currStreakNum=FF0000&fire=FF0000&card_height=205&currStreakLabel=FF0000&ring=FF0000&border=000000" />
+    <img alt ="Mahan Rahmani" align="center" width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=MainakVerse&theme=highcontrast&currStreakNum=FF0000&fire=FF0000&card_height=205&currStreakLabel=FF0000&ring=FF0000&border=000000" />
     <br/>
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph // Graph-Koordinaten -->
-<img alt="Mahan Rahmani" width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=Mahan-Rahmani&theme=high-contrast&hide_border=true&area_color=FF0000&area=true&point=FF0000&line=FF0000&" />
+<img alt="Mahan Rahmani" width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=MainakVerse&theme=high-contrast&hide_border=true&area_color=FF0000&area=true&point=FF0000&line=FF0000&" />
     <!-- https://github.com/anuraghazra/github-readme-stats // Most Used Language-->
-    <img alt="Mahan Rahmani" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahan-Rahmani&layout=compact&text_color=FFFFFF&bg_color=000000&card_width=805&hide_border=true&title_color=FF0000" />
+    <img alt="Mahan Rahmani" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainakVerse&layout=compact&text_color=FFFFFF&bg_color=000000&card_width=805&hide_border=true&title_color=FF0000" />
     <br/>
 
 </p>
